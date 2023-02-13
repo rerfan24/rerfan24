@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rerfan24
 - 👀 I’m interested in front-end developing
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any front-end project that helps me progress more in this field
 
 <!---
